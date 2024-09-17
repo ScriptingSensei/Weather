@@ -1,4 +1,4 @@
-# Weather
+# Weather Application
 
 This project is a Python-based Weather Application that provides real-time weather information for any location specified by the user. The application utilizes `tkinter` to create a graphical user interface (GUI), allowing users to input a city name and receive up-to-date weather data through a simple, interactive interface. The project integrates external APIs for retrieving weather information and displays it in an organized and visually appealing format.
 
